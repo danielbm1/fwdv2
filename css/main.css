@@ -215,7 +215,7 @@ iframe {
 
 .login100-form {
     z-index: 9999;
-    width: 420px;
+    width: 430px;
     max-height: 90vh;
     display: block;
     background: rgba(9,30,166,1);
@@ -226,8 +226,8 @@ iframe {
     background: -ms-linear-gradient(-45deg, rgba(9,30,166,1) 0%, rgba(5,15,83,1) 100%);
     background: linear-gradient(135deg, rgba(9,30,166,1) 0%, rgba(5,15,83,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#091ea6', endColorstr='#050f53', GradientType=1 );
-    padding: 50px 45px 55px 45px;
-    margin: 5vh 70px 5vh 70px;
+    padding: 50px 35px 55px 35px;
+    margin: 5vh 65px 5vh 65px;
     border-radius: 25px;
 }
 
